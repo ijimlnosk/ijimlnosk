@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=solGoodsol&color=afc8dc&heught=150&section=header&fontSize=100&animation=twinkling&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=ijimlnosk&color=afc8dc&heught=150&section=header&fontSize=100&animation=twinkling&fontAlignY=55)
 
   <br/>
 
