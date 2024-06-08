@@ -1,6 +1,8 @@
 <div align="center">
-  
+
   ![header](https://capsule-render.vercel.app/api?type=cylinder&text=ijimlnosk&color=afc8dc&heught=150&section=header&fontSize=100&animation=twinkling&fontAlignY=55)
+
+  
 
   <br/>
 
@@ -17,6 +19,8 @@
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijimlnosk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijimlnosk)](https://github.com/ijimlnosk/github-readme-stats)
 
   
 </div>
