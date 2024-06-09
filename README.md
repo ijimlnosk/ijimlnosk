@@ -2,8 +2,10 @@
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&text=ijimlnosk&color=afc8dc&heught=150&section=header&fontSize=100&animation=twinkling&fontAlignY=55)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ijimlnosk}?pet-id=2" width="1000" height="120"/>
+</a>
   
-
   <br/>
 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
