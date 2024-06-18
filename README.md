@@ -2,6 +2,16 @@
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&text=ijimlnosk&color=afc8dc&heught=150&section=header&fontSize=100&animation=twinkling&fontAlignY=55)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ijimlnosk?pet-id=587614545064867408"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/ijimlnosk"
