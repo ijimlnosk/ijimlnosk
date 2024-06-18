@@ -7,10 +7,11 @@
   <img
     src="https://render.gitanimals.org/lines/ijimlnosk?pet-id=587614545064867408"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
-  
+
+  <br/>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
