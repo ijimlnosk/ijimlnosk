@@ -10,6 +10,8 @@
   안녕하세요. Web FrontEnd 개발자 김진솔입니다
 </div>
 
+</br>
+
 <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
