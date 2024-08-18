@@ -62,8 +62,6 @@
 
   
 </div>
-<!--
-**ijimlnosk/ijimlnosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here Are some ideas to get you started:
 
